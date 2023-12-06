@@ -33,13 +33,14 @@ Please follow this the instructions in `./eval/main.m` and just run it to genera
 
 Please cite our paper if you find the work useful, thanks!
 
-@article{song2023pixel,
-  title={Pixel-Centric Context Perception Network for Camouflaged Object Detection},
-  author={Song, Ze and Kang, Xudong and Wei, Xiaohui and Li, Shutao},
-  journal={IEEE Transactions on Neural Networks and Learning Systems},
-  year={2023},
-  publisher={IEEE}
-}
+
+	@article{song2023pixel,
+  	title={Pixel-Centric Context Perception Network for Camouflaged Object Detection},
+  	author={Song, Ze and Kang, Xudong and Wei, Xiaohui and Li, Shutao},
+  	journal={IEEE Transactions on Neural Networks and Learning Systems},
+  	year={2023},
+  	publisher={IEEE}
+	}
 	
 
 **[⬆ back to top](#1-preface)**
